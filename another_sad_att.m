@@ -5,7 +5,7 @@
 clc
 clf
 clear all
-
+% otro comentario 
 % Magnetic Fields
 Bx = 0.875;
 By = 0.875;
